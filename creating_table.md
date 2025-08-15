@@ -3,9 +3,9 @@ USE school;
 
 ## -- Step 2: Create a simple table named 'students'
 CREATE TABLE students (  
-    id   INT,           -- Student ID (integer number)  
-    name VARCHAR(50),   -- Student's name (up to 50 characters)  
-    age  INT            -- Student's age  
+    id   INT,           
+    name VARCHAR(50),     
+    age  INT              
 );
 
 
